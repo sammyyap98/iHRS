@@ -9,7 +9,7 @@ def identity_func(img):
 
 def autocontrast_func(img, cutoff=0):
     '''
-        same output as PIL.ImageOps.autocontrast
+        same output as PIL.ImageOps.autocontrast 
     '''
     n_bins = 256
 
